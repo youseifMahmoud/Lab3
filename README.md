@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Yousef Hany Portfolio
 
 Welcome to my portfolio website showcasing my skills, projects, and experience as a Fullstack Web Developer using Python. This website includes information about me, my skills, completed projects, and how to contact me.
@@ -61,3 +62,6 @@ Feel free to reach out to me using the contact form on my website or through my 
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/youseifMahmoud/Lab2.git
+=======
+# Lab3
+>>>>>>> 69f87d59f0ff966c2eda6890534f4e7d1ebdeb57
