@@ -62,6 +62,3 @@ Feel free to reach out to me using the contact form on my website or through my 
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/youseifMahmoud/Lab3.git
-=======
-# Lab3
->>>>>>> 69f87d59f0ff966c2eda6890534f4e7d1ebdeb57
